@@ -1,5 +1,5 @@
 ﻿
-namespace OOP1
+namespace CalculatingTheRisk
 {
     partial class Form1
     {

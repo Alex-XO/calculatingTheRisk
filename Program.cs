@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OOP1
+namespace CalculatingTheRisk
 {
     static class Program
     {
